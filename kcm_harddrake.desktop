@@ -4,7 +4,7 @@ Type=Service
 X-KDE-ServiceTypes=SystemSettingsExternalApp
 Exec=/usr/sbin/harddrake2
 
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=hardware
 
 Name=Hardware Configuration Tool
 Name[cs]=Nástroj pro nastavení hardware
