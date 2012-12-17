@@ -1,0 +1,77 @@
+[Desktop Entry]
+Icon=harddrake
+Type=Service
+X-KDE-ServiceTypes=SystemSettingsExternalApp
+Exec=/usr/sbin/harddrake2
+
+X-KDE-System-Settings-Parent-Category=system-administration
+
+Name=Hardware Configuration Tool
+Name[cs]=Nástroj pro nastavení hardware
+Name[cy]=Offeryn Ffurfweddu Caledwedd
+Name[da]=Værktøj til konfigurering af udstyr
+Name[de]=Hardware-Konfigurationswerkzeug
+Name[el]=Εργαλείο ρυθμίσεων υλικού
+Name[es]=Herramienta de configuración del hardware
+Name[et]=Riistvara seadistamise tööriist
+Name[eu]=Hardware konfiguratzeko Tresna
+Name[fi]=Laitteiston asetustyökalu
+Name[fr]=Outil de configuration du matériel
+Name[hu]=Hardver beállító eszköz
+Name[is]=Vélbúnaðarstillingartól
+Name[it]=Strumento di configurazione dell'hardware
+Name[ja]=ハードウェア設定ツール
+Name[nb]=Verktøy for maskinvareoppsett
+Name[nl]=Apparaatinstellingen
+Name[nn]=Verktøy for maskinvareoppsett
+Name[pl]=Konfiguracja sprzętu
+Name[pt]=Ferramenta de Configuração do Material
+Name[pt_BR]=Ferramenta de Configuração de Hardware
+Name[ro]=Unealtă de configurare materială
+Name[ru]=Утилита настройки оборудования
+Name[sl]=Orodje za nastavitev strojne opreme
+Name[sv]=Verktyg för hårdvarukonfiguration
+Name[tr]=Donanım Yapılandırma Aracı
+Name[uk]=Інструмент налаштування обладнання
+Name[zh_CN]=硬件配置工具
+Name[zh_TW]=硬體設定工具
+
+Comment=Hardware Central Configuration/information tool
+Comment[cs]=Centrální nástroj pro nastavení hardware a zjištění informací o něm
+Comment[cy]=Offeryn Ffurfweddu/gwybodaeth Canolog  Caledwedd
+Comment[da]=Centralt værktøj for konfiguration og information omkring udstyr
+Comment[de]=Zentrales Hardware Konfigurations/Informations Tool
+Comment[el]=Εργαλείο ρυθμίσεων και πληροφοριών υλικού
+Comment[es]=Herramienta de configuración/información del hardware
+Comment[et]=Keskne riistvara seadistamise ja teabe tööriist
+Comment[eu]=Hardware konfiguraketa zentrala/Informazio tresna
+Comment[fi]=Laitteiston asetus- ja tietotyökalu
+Comment[fr]=Outils d'information et de configuration du matériel
+Comment[gl]=Ferramenta de Información/Configuración Central de Hardware
+Comment[he]=כלי מידע/תצורת חומרה מרכזי
+Comment[hu]=Hardverközpont - beállítási és információs eszköz
+Comment[id]=Aplikasi Konfigurasi/informasi Pusat Perangkat Keras
+Comment[is]=Vélbúnaðaruppsetningar og upplýsingatól
+Comment[it]=Procedura centralizzata per individuare e configurare l'hardware
+Comment[ja]=ハードウェアの設定/情報閲覧ツール
+Comment[ms]=Alatan maklumat/Tetapan Berpusat Perkakasan
+Comment[nb]=Sentralt verktøy for maskinvareoppsett/informasjon
+Comment[nl]=Centraal configuratie-/informatieprogramma voor apparatuur
+Comment[nn]=Oppsett og informasjon for maskinvare
+Comment[pl]=Konfiguracja i informacje o sprzęcie
+Comment[pt]=Configuração/Informação Central do Material
+Comment[pt_BR]=Ferramenta de Configuração e Informações sobre o Hardware
+Comment[ro]=Unealta centrală de informare/configurare materială
+Comment[ru]=Утилита централизованной настройки оборудования
+Comment[sl]=Središče za prikaz podatkov o strojni opremi in njeno nastavljanje
+Comment[sv]=Verktyg för hårdvarukonfiguration och information
+Comment[tr]=Donanım Merkezi Yapılandırma/Bilgilendirme aracı
+Comment[uk]=Інструмент центрального налаштування обладнання/інформації
+Comment[uz]=Asbob-uskunalarni moslash vositasi
+Comment[uz@cyrillic]=Асбоб-ускуналарни мослаш воситаси
+Comment[zh_CN]=硬件中心配置/信息工具
+Comment[zh_TW]=硬體組態設定中心/資訊工具
+
+
+X-KDE-Keywords=packages
+Categories=Qt;KDE;X-KDE-information;

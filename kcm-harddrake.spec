@@ -1,27 +1,25 @@
 Name:           kcm-harddrake
-BuildRequires:  kdelibs4-devel
 License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching harddrake
 Version:        1.0
-Release:        5
+Release:        6
 BuildArch:      noarch
-Source0:        %{name}-%{version}.tar.gz
+Source0:        kcm_harddrake.desktop
 
 %description
 Harddrake launcher for KDE Control Center
 
 %prep
-%setup -q
 
 %build
-%cmake_kde4
 
 %install
-%makeinstall_std -C build
+mkdir -p %{buildroot}%{_kde_services}
+cp -f %{SOURCE0} %{buildroot}%{_kde_services}/
 
 %files
 %defattr(-,root,root)
 %doc
-%{_datadir}/kde4/services/kcm_harddrake.desktop
+%{_kde_services}/kcm_harddrake.desktop
 
