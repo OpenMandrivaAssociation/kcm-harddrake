@@ -5,7 +5,7 @@ License:        GPLv3+
 Group:          Graphical desktop/KDE
 Summary:        A KDE Control Module for launching harddrake
 Version:        1.0
-Release:        10
+Release:        11
 BuildArch:      noarch
 Source0:        kcm_harddrake.desktop
 
